@@ -32,8 +32,8 @@ const quizQuestions = [
     
         question: 'insert question',
         answers: {
-            a: 'insert',
-            b: 'insert',
+            a: 'Boolean',
+            b: 'Number',
             c:  'insert',
             d: 'insert'
         },
@@ -41,14 +41,14 @@ const quizQuestions = [
     },
     {
     
-        question: 'insert question',
+        question: 'Which is a JavaScript Data Type?',
         answers: {
-            a: 'insert',
-            b: 'insert',
-            c:  'insert',
-            d: 'insert'
+            a: 'Boo Diddleys',
+            b: 'Number',
+            c:  'NaN',
+            d: 'Unknown'
         },
-        correctAnswer: 'insert letter above'
+        correctAnswer: 'b'
     },
     {
     
